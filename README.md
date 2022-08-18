@@ -1,3 +1,3 @@
 A repository that contains my course work related to computer science at University.<br>
-COMP 1130 (88%)
-COMP 1231 (89%)
+COMP 1130 - Computer Programming 1 (88%)<br> 
+COMP 1231 - Computer Programming 2 (89%)
