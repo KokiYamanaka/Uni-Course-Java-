@@ -1,0 +1,17 @@
+11
+Is the animal big? 
+Does it squeak ? 
+Does it have a long neck ? 
+The animal is quirrel. 
+The animal is mouse. 
+Does it have a trunk? 
+The animal is giraffe.
+Does it like to be in water?
+The animal is elephant.
+The animal is rhino.
+The animal is hippo.
+7 9 10
+5 7 8 
+1 3 4 
+2 5 6 
+0 1 2
