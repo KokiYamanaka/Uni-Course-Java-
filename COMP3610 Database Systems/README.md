@@ -3,17 +3,17 @@
 This section is my university coursework on database systems.
 I have posted some assignments.
 
-Files 
+## Files 
 Activity - this file is contains graded exercise questions to practice some concepts
-A2 - Query from database
-A6 - Procedures/Functions
-A7 - Triggers
+- A2 - Query from database
+- A6 - Procedures/Functions
+- A7 - Triggers
 
 Assignments - this file contains large scaled problems
-assignment 1 - Book rental database 
-assignment 2 - Project case study : Car rental 
+- assignment 1 - Book rental database 
+- assignment 2 - Project case study : Car rental 
 
-Course Topics covered
+## Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
 2.	The Relational Database Model (Chapter 4 and Appendix A)
 3.	Relational Algebra and Relational Calculus (Chapter 5)
