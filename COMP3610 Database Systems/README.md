@@ -1,5 +1,15 @@
 This section is my university coursework on database systems.
-I have posted some assignments 
+I have posted some assignments.
+
+Files 
+Activity - this file is contains graded exercise questions to practice some concepts
+A2 - Query from database
+A6 - Procedures/Functions
+A7 - Triggers
+
+Assignments - this file contains large scaled problems
+assignment 1 - Book rental database 
+assignment 2 - Project case study : Car rental 
 
 Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
