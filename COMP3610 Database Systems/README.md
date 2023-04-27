@@ -1,4 +1,4 @@
-Course Topics
+Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
 2.	The Relational Database Model (Chapter 4 and Appendix A)
 3.	Relational Algebra and Relational Calculus (Chapter 5)
