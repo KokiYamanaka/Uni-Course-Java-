@@ -1,3 +1,6 @@
+This section is my university coursework on database systems.
+I have posted some assignments 
+
 Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
 2.	The Relational Database Model (Chapter 4 and Appendix A)
