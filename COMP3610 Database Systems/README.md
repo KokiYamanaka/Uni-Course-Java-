@@ -11,8 +11,10 @@ Activity - this file is contains graded exercise questions to practice some conc
 
 Assignments - this file contains large scaled problems
 - assignment 1 - Book rental database 
-- assignment 2 - Project case study : Car rental 
 
+Project case study
+- assignment 2 - Project case study : Car rental 
+- 
 ## Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
 2.	The Relational Database Model (Chapter 4 and Appendix A)
