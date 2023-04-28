@@ -14,7 +14,7 @@ Assignments - this file contains large scaled problems
 
 Project case study
 - assignment 2 - Project case study : Car rental 
-- file description | project code.sql: actual code | project documented.pdf : actual code documented with specific task | project task.docx : project task description
+- file description = project code.sql: actual code | project documented.pdf : actual code documented with specific task | project task.docx : project task description
 
 ## Course Topics covered
 1.	Introduction to the concepts and principles of database systems.  (Chapter 1, 2, and 3)
