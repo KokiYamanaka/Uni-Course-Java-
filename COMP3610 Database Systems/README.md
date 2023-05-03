@@ -8,6 +8,7 @@ Activity - this file is contains graded exercise questions to practice some conc
 - A2 - Query from database
 - A6 - Procedures/Functions
 - A7 - Triggers
+- A4 - Normalization
 
 Assignments - this file contains large scaled problems
 - assignment 1 - Book rental database 
